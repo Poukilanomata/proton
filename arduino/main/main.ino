@@ -132,8 +132,8 @@ void loop() {
     ypr[2] = ypr_tmp[2];
 
     xyz[0] = aaReal.x/16384.0;
-    xyz[1] = aaReal.x/16384.0;
-    xyz[2] = aaReal.x/16384.0;
+    xyz[1] = aaReal.y/16384.0;
+    xyz[2] = aaReal.z/16384.0;
 
     xyz_tmp[0] = -xyz[0];
     xyz_tmp[1] = -xyz[1];

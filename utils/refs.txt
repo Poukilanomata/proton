@@ -1,0 +1,3 @@
+Liens utiles:
+
+https://timhanewich.medium.com/taking-flight-with-the-raspberry-pi-pico-micropython-diy-quadcopter-drone-61ed4f7ee746
