@@ -1,6 +1,7 @@
 python/optifoil
 plans/roadmap
 python/condor/spreadsheet
+python/condor/utils/__pycache__
 
 .vscode/arduino.json
 .vscode/launch.json
