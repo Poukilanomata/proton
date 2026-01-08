@@ -86,4 +86,3 @@ class MPUreader:
         self.raw_data = [accelerometer_data, gyroscope_data, temperature]
         self.off_data = [accelerometer_data - self.offsets[0], gyroscope_data - self.offsets[1], temperature]
         return self.raw_data, self.off_data
-

@@ -1,3 +1,6 @@
-Liens utiles:
+Supers liens:
 
 https://timhanewich.medium.com/taking-flight-with-the-raspberry-pi-pico-micropython-diy-quadcopter-drone-61ed4f7ee746
+Le tuto est sur pico donc c'est tj bon notamment pour micropython
+
+https://www.instructables.com/How-to-Use-the-MPU6050-With-the-Raspberry-Pi-4/
